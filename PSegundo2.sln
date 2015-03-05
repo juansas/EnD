@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSegundo2", "PSegundo2\PSegundo2.csproj", "{51B59D0D-6F3F-4F25-9246-6A27F2EEDE0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51B59D0D-6F3F-4F25-9246-6A27F2EEDE0A}.Debug|x86.ActiveCfg = Debug|x86
+		{51B59D0D-6F3F-4F25-9246-6A27F2EEDE0A}.Debug|x86.Build.0 = Debug|x86
+		{51B59D0D-6F3F-4F25-9246-6A27F2EEDE0A}.Release|x86.ActiveCfg = Release|x86
+		{51B59D0D-6F3F-4F25-9246-6A27F2EEDE0A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = PSegundo2\PSegundo2.csproj
+	EndGlobalSection
+EndGlobal
